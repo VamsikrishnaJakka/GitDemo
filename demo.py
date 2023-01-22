@@ -1,1 +1,10 @@
 print('This is demo of git')
+
+print("Hi")
+print("Hi")
+print("Hi")
+print("Hi")
+print("Hi")
+print("Hi")
+print("Hi")
+print("Hello")
